@@ -1,0 +1,9 @@
+c:\users\md. alamin mahamud\documents\visual studio 2013\Projects\ScreenCaptureModule\ScreenCaptureModule\bin\Debug\ScreenCaptureModule.exe.config
+c:\users\md. alamin mahamud\documents\visual studio 2013\Projects\ScreenCaptureModule\ScreenCaptureModule\obj\Debug\ScreenCaptureModule.csprojResolveAssemblyReference.cache
+c:\users\md. alamin mahamud\documents\visual studio 2013\Projects\ScreenCaptureModule\ScreenCaptureModule\obj\Debug\ScreenCaptureModule.Form1.resources
+c:\users\md. alamin mahamud\documents\visual studio 2013\Projects\ScreenCaptureModule\ScreenCaptureModule\obj\Debug\ScreenCaptureModule.Properties.Resources.resources
+c:\users\md. alamin mahamud\documents\visual studio 2013\Projects\ScreenCaptureModule\ScreenCaptureModule\obj\Debug\ScreenCaptureModule.csproj.GenerateResource.Cache
+c:\users\md. alamin mahamud\documents\visual studio 2013\Projects\ScreenCaptureModule\ScreenCaptureModule\bin\Debug\ScreenCaptureModule.exe
+c:\users\md. alamin mahamud\documents\visual studio 2013\Projects\ScreenCaptureModule\ScreenCaptureModule\bin\Debug\ScreenCaptureModule.pdb
+c:\users\md. alamin mahamud\documents\visual studio 2013\Projects\ScreenCaptureModule\ScreenCaptureModule\obj\Debug\ScreenCaptureModule.exe
+c:\users\md. alamin mahamud\documents\visual studio 2013\Projects\ScreenCaptureModule\ScreenCaptureModule\obj\Debug\ScreenCaptureModule.pdb
